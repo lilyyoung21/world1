@@ -1,2 +1,3 @@
 # world1
-This is my first repository
+
+Hi, my name is Lily and I go to Pitt.
